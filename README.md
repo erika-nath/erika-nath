@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erika</h1>
 <h3 align="center">A passionate web developer.</h3>
 
-- 🔭 I’m currently working on shaping my skills with JavaScript.
-
 - 🌱 I’m currently learning React,Typescript and Node.JS
 
 - 👯 I’m looking to collaborate on people who love to learn in a positive and fun enviroment.
